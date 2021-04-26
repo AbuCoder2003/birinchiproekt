@@ -1,0 +1,188 @@
+.reklama{
+    position: absolute;
+    top: 1%;
+    width: 450px;
+    height: 900px;
+    border: 3px solid black;
+    border-radius: 10px;
+
+
+}
+.reklama img{
+    border-radius: 10px;
+    width: 450px;
+    height: 900px;
+}
+.reklamaa{
+    position: absolute;
+    top: 1%;
+    left: 66%;
+    width: 450px;
+    height: 900px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.reklamaa img{
+    border-radius: 10px;
+    width: 450px;
+    height: 900px;
+    left: 66%;
+}
+.center{
+    position: absolute;
+    top: 1%;
+    left:35%;
+    width: 400px;
+    height: 100px;
+    border: 3px solid black;
+    border-radius: 10px;
+
+}
+.poisk{
+    position: absolute;
+    top:35%;
+    left:10%;
+}
+.center2 {
+    position: absolute;
+    top: 28%;
+    left:35%;
+    width: 400px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 10px;
+
+}
+.center2 img{
+    top: 25%;
+}
+.center3 img{
+    top: 35%;
+    left: 36%;
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    border: 2px solid  black;
+    border-radius: 10px;
+
+}
+.center4 {
+    position: absolute;
+    top: 91%;
+    left:35%;
+    width: 400px;
+    height: 337px;
+    border: 3px solid black;
+    border-radius: 10px;
+
+}
+.doira1{
+    position: absolute;
+    top: 10%;
+    left: 8%;
+    width: 70px;
+    height: 70px;
+border: 5px solid black;
+border-radius: 50%;
+
+
+}
+.doira2{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    width: 70px;
+    height: 70px;
+border: 5px solid black;
+border-radius: 50%;
+
+
+}
+.doira3{
+    position: absolute;
+    top: 10%;
+    left: 52%;
+    width: 70px;
+    height: 70px;
+border: 5px solid black;
+border-radius: 50%;
+
+
+}
+.doira4{
+    position: absolute;
+    top: 10%;
+    left: 75%;
+    width: 70px;
+    height: 70px;
+border: 5px solid black;
+border-radius: 50%;
+
+
+}
+.rasm1{
+    position: absolute;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+    top:2%;
+    left:2%;
+
+}
+.rasm2{
+    position: absolute;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+    top:1%;
+    left:2%;
+
+}
+.rasm3{
+    position: absolute;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+    top: 1%;
+    left: 2%;
+
+}
+.rasm4{
+    position: absolute;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+    top: 1%;
+    left: 2%;
+
+}
+.doira4 i {
+    position: absolute;
+    top: 110%;
+    font-size:50px;
+    left: 10%;
+}
+.doira3 i {
+    position: absolute;
+    top: 110%;
+    font-size:50px;
+    left: 10%;
+}
+.doira2 i {
+    position: absolute;
+    top: 110%;
+    font-size:50px;
+    left: 10%;
+}
+.doira1 i {
+    position: absolute;
+    top: 110%;
+    font-size:50px;
+    left: 10%;
+}
+.lorem{
+    position: absolute;
+    margin-top: 48%;
+    margin-left: 5%;
+
+}

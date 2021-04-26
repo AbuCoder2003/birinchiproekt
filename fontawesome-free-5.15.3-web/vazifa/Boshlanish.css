@@ -1,0 +1,206 @@
+.container{
+    width: 1140px;
+    margin: 0% auto;
+}
+.clearfix{
+    clear: both;
+}
+.main-header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0px 2px 16px 0px;
+    (0 0 0 / 10%)
+
+}
+.main-baner{
+    background: url(photo_2021-04-19_16-09-23.jpg) no-repeat top center;
+    background-position: center;
+    min-height: 790px;
+    padding: 100px;
+    background-size: cover;
+
+
+}
+.main-section-item{
+    display: inline-block;
+    padding: 10px;
+}
+.main-section-item a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(197, 61, 7);
+    font-size: 12px;
+    font-weight: 500;
+    
+}
+.main-section-item a:hover{
+    color: rgb(83, 179, 235);
+}
+.main-section-brand img{
+    width: 120px;
+border-radius: 50%;
+display: inline-block;
+}
+.main-section-header{
+    display: inline-flex;
+    vertical-align: middle;
+}
+.main-section  > div{
+    width: 50%;
+    float: left;
+
+}
+/*Navbar qism tugadi*/
+/*Main qismi boshlandi*/
+.abucoder img{
+    width: 70%;
+    height: 10%;
+}
+.main-section-subtitle{
+    font-size: 16px;
+    margin-top: 150px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    letter-spacing: 2px; 
+    color: blueviolet;
+}
+.main-section-title{
+    margin-top: 20px;
+    font-size: 60px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    text-transform: initial;
+    font-family:Ink Free;
+}
+.button{
+    border: none;
+    color: black;
+    background: linear-gradient(to right, blue, rgb(255, 0, 221), rgb(255, 0, 34));
+font-weight: 500;
+font-size: 14px;
+padding: 25px 40px;
+cursor: pointer;
+border-radius: 5px;
+
+}
+.button :hover{
+    background-position: right center ;
+}
+.button a{
+    text-decoration: none;
+    color: rgb(216, 216, 209);
+
+}
+/*statistika*/
+.statistika{
+    margin-top: 100px;
+}
+.statistika-item{
+    display: inline-block;
+    background-color: rgb(231, 216, 231);
+    text-align: center;
+    width: 140px;
+    padding: 5PX 10px;
+    margin-left: 10px;
+}
+.statistik-number{
+    
+    font-size: 27px;
+    margin-bottom: -90px;
+   background:  linear-gradient(to right, rgb(12, 12, 170) 0%, rgb(177, 75, 160) 51%, rgb(227, 217, 230));
+  -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+  font-weight: 1000;
+}
+
+
+/*about me*/
+.about-section {
+    margin-top: 100px;
+}
+.about-section > div{
+    width: 50%;
+    float: left;
+}
+.about-me-image img{
+    width: 70%;
+}
+.section-subtitle{
+    letter-spacing: 3px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    color: blueviolet;
+    text-transform: uppercase;
+}
+.secton-title{
+    margin-top: 5px;
+    font-size: 42px;
+    font-weight: 700;
+   background: linear-gradient(to right, rgb(255, 38, 0) rgb(255, 166, 0) yellow);
+    text-transform: uppercase;
+}
+
+.blur-line{
+    display: inline-block;
+    margin-left:5px;
+    width: 80px;
+    height: 4px;
+    background-color: firebrick(737,35,159, 0.6);
+    filter: blur(4px);
+    border-radius: 4px;
+}
+.about-me-button{
+    border: none;
+    font-family: sans-serif;
+    cursor: pointer;
+    border-radius: 15px;
+    background: linear-gradient(to right, blue 0%, red 51%, rgb(141, 20, 172));
+    background-size: 200% auto;
+    padding: 20px 50px;
+}
+.about-me-button:hover{
+    background-position: right center;
+
+}
+.about-me-button a{
+    color: white;
+    text-decoration: none;
+}
+.statistika-item:hover{
+    box-shadow: 0px 2px 16px 0px;
+    (0 0 0 / 10%)
+}
+.abucoder img {
+margin-top: 220px;
+}
+/*Meni xizmatlarim qismi boshlani*/
+.servies-card{
+    display: inline-block;
+    width: 30%;
+    padding: 60px 30px;
+    background-color: rgb(101, 129, 129);
+    margin-right: 3%;
+    text-align: center;
+    box-sizing:border-box;
+}
+.servies-card-title:hover{
+    background-color: blue;
+}
+.servies-card-title{
+    color: rgb(77, 68, 68);
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    
+}
+.servies-card-malumotlat{
+    font-size: 14px;
+    line-height: 27px;
+    font-weight: 300;
+    color: darkgrey;
+}
+

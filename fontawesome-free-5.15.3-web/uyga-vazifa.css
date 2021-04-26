@@ -1,0 +1,30 @@
+.body{
+    background: linear-gradient(to right, rgb(78, 10, 105), rgb(156, 58, 151),rgb(67, 9, 134));
+}
+.abu-coder{
+    color: burlywood;
+    
+}
+.reklama img{
+    width: 10%;
+    height: 20%;
+    border-radius: 11%;  }
+    .logotip{
+        color: beige;
+    }
+    .fab {
+        color: beige;
+    }
+   .papkalar{
+       display: inline-block;
+       margin-left: 5px;
+       padding: 3px;
+       height: 4px;
+       text-align: center;
+       color: blanchedalmond;
+       margin-left: 620px;
+       
+   } 
+   .lorem{
+       color: blanchedalmond;
+   }
